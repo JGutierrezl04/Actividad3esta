@@ -3,10 +3,10 @@
 
 ### ***This repo includes some Java basics programs.***
 
-#### 1. _Fabonnaci Series_
-#### 2. _Find Number Game_
-#### 3. _Temperature Converter_
-#### 4. _Tip Calculator_
+#### 1. _Fabonnaci Series_ Sin modificaciones.
+#### 2. _Find Number Game_ Sin modificaciones.
+#### 3. _Temperature Converter_ Esta aplicación ha sido traducida a castellano y subida con la estructura de un proyecto Maven.
+#### 4. _Tip Calculator_ Sin modificaciones.
 
 
 ### *TOOLS and LANGUAGES* 
